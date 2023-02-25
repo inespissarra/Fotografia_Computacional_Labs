@@ -70,9 +70,11 @@ end
 
 figure(2);
 plot(U');
+legend('Punto 1','Punto 2', 'Punto 3', 'Punto 4')
 
 figure(3);
 plot(V');
+legend('Punto 1','Punto 2', 'Punto 3', 'Punto 4')
 
 figure(4);
 plot(D');

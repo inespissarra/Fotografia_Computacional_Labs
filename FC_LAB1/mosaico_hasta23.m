@@ -7,7 +7,6 @@ rx=(1:M); ry=(1:N);
 im_original = imread("target.jpg");
 im_original = im2double(im_original);
 imagenes = imags;
-%timeout=zeros(1,L); despues?
 
 dims_target = size(im_original);
 im = zeros(dims_target(1),dims_target(2));
@@ -23,12 +22,12 @@ for j = 1:vertical
     rx=(1:M);
 end
 
-for r=1:4 
+for r=1:4
     rx=(1:M);
     ry=(1:N);
     count_subs = 0;
     count_subs_cond = 0;
-    timeout=zeros(1,L); % se recorda?? Antes?
+    timeout=zeros(1,L);
     for j = 1:(vertical*2^(r-1))
         for i = 1:(horizontal*2^(r-1))
             timeout = timeout - 1;

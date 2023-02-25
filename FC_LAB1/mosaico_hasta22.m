@@ -65,7 +65,7 @@ end
 figure(1);
 imshow(im);
 figure(2);
-plot(usos);
+plot(usos');
 
 mas_20 = 0;
 for i=1:L
