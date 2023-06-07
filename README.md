@@ -1,6 +1,6 @@
 # Fotografia_Computacional_Labs
 
-Laboratorios de evaluación de la asignatura Fotografía Computacional en la ETSIINF.
+Laboratorios de evaluación de la asignatura Fotografía Computacional en la ETSIINF (año 2022/2023).
 
 ## Notas:
 - Lab1 : 94/100
