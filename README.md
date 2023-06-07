@@ -1,5 +1,7 @@
 # Fotografia_Computacional_Labs
 
+Laboratorios de evaluación de la asignatura Fotografía Computacional en la ETSIINF.
+
 ## Notas:
 - Lab1 : 94/100
 - Lab2 : 100/100
